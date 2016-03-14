@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\compiler.xml" timestamp="1457366600004" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\copyright\profiles_settings.xml" timestamp="1457366600017" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\encodings.xml" timestamp="1457367459229" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\gradle.xml" timestamp="1457366604654" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\libraries\animated_vector_drawable_23_2_0.xml" timestamp="1457367459264" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\libraries\appcompat_v7_23_2_0.xml" timestamp="1457369599988" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\libraries\design_23_2_0.xml" timestamp="1457369599963" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\libraries\recyclerview_v7_23_2_0.xml" timestamp="1457369599971" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\libraries\support_annotations_23_2_0.xml" timestamp="1457367459304" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\libraries\support_v4_23_2_0.xml" timestamp="1457369599982" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\libraries\support_vector_drawable_23_2_0.xml" timestamp="1457367459295" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\misc.xml" timestamp="1457370174772" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\modules.xml" timestamp="1457367459235" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\runConfigurations.xml" timestamp="1457367459245" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\vcs.xml" timestamp="1457366600040" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\.idea\workspace.xml" timestamp="1457370174765" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\HelloAndroidkurs.iml" timestamp="1457367459182" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\HelloAndroidkurs\app\app.iml" timestamp="1457369599922" />
+  </project-files>
+</conversion>
+

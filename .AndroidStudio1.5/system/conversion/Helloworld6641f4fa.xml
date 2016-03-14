@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\compiler.xml" timestamp="1457112331809" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\copyright\profiles_settings.xml" timestamp="1457112331822" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\encodings.xml" timestamp="1457112412785" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\gradle.xml" timestamp="1457112336754" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\libraries\animated_vector_drawable_23_2_0.xml" timestamp="1457112412938" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\libraries\appcompat_v7_23_2_0.xml" timestamp="1457112413004" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\libraries\design_23_2_0.xml" timestamp="1457112412965" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\libraries\recyclerview_v7_23_2_0.xml" timestamp="1457112412916" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\libraries\support_annotations_23_2_0.xml" timestamp="1457112412868" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\libraries\support_v4_23_2_0.xml" timestamp="1457112412985" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\libraries\support_vector_drawable_23_2_0.xml" timestamp="1457112412894" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\misc.xml" timestamp="1457112412764" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\modules.xml" timestamp="1457112412795" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\runConfigurations.xml" timestamp="1457112412825" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\vcs.xml" timestamp="1457112331839" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\.idea\workspace.xml" timestamp="1457112697575" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\Helloworld.iml" timestamp="1457112412675" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Helloworld\app\app.iml" timestamp="1457112590141" />
+  </project-files>
+</conversion>
+

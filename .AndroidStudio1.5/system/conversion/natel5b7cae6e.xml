@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\compiler.xml" timestamp="1457112768644" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\copyright\profiles_settings.xml" timestamp="1457112768658" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\encodings.xml" timestamp="1457113364147" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\gradle.xml" timestamp="1457112773817" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\libraries\animated_vector_drawable_23_2_0.xml" timestamp="1457113364204" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\libraries\appcompat_v7_23_2_0.xml" timestamp="1457113364236" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\libraries\design_23_2_0.xml" timestamp="1457113364215" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\libraries\recyclerview_v7_23_2_0.xml" timestamp="1457113364195" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\libraries\support_annotations_23_2_0.xml" timestamp="1457113364177" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\libraries\support_v4_23_2_0.xml" timestamp="1457113364226" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\libraries\support_vector_drawable_23_2_0.xml" timestamp="1457113364185" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\misc.xml" timestamp="1457113364138" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\modules.xml" timestamp="1457113364152" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\runConfigurations.xml" timestamp="1457113364161" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\vcs.xml" timestamp="1457112768678" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\.idea\workspace.xml" timestamp="1457113515755" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\app\app.iml" timestamp="1457113364087" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\natel\natel.iml" timestamp="1457113364099" />
+  </project-files>
+</conversion>
+

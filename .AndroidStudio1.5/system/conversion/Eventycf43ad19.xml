@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\compiler.xml" timestamp="1457376829341" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\copyright\profiles_settings.xml" timestamp="1457376829357" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\encodings.xml" timestamp="1457377079226" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\gradle.xml" timestamp="1457376832961" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\libraries\animated_vector_drawable_23_2_0.xml" timestamp="1457377079298" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\libraries\appcompat_v7_23_2_0.xml" timestamp="1457377079341" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\libraries\design_23_2_0.xml" timestamp="1457377079308" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\libraries\recyclerview_v7_23_2_0.xml" timestamp="1457377079287" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\libraries\support_annotations_23_2_0.xml" timestamp="1457377079261" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\libraries\support_v4_23_2_0.xml" timestamp="1457377079330" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\libraries\support_vector_drawable_23_2_0.xml" timestamp="1457377079272" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\misc.xml" timestamp="1457377079202" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\modules.xml" timestamp="1457377079231" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\runConfigurations.xml" timestamp="1457377079243" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\vcs.xml" timestamp="1457376829374" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\.idea\workspace.xml" timestamp="1457377079195" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\Eventy.iml" timestamp="1457377079164" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Eventy\app\app.iml" timestamp="1457377079147" />
+  </project-files>
+</conversion>
+

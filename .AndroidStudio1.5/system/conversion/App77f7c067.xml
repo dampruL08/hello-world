@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\compiler.xml" timestamp="1457113565292" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\copyright\profiles_settings.xml" timestamp="1457113565308" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\encodings.xml" timestamp="1457113936692" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\gradle.xml" timestamp="1457113586539" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\libraries\animated_vector_drawable_23_2_0.xml" timestamp="1457113936743" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\libraries\appcompat_v7_23_2_0.xml" timestamp="1457366491477" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\libraries\support_annotations_23_2_0.xml" timestamp="1457113936807" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\libraries\support_v4_23_2_0.xml" timestamp="1457366491485" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\libraries\support_vector_drawable_23_2_0.xml" timestamp="1457113936793" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\misc.xml" timestamp="1457366531477" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\modules.xml" timestamp="1457113936697" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\runConfigurations.xml" timestamp="1457113936717" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\vcs.xml" timestamp="1457113565327" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\.idea\workspace.xml" timestamp="1457366502130" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\App.iml" timestamp="1457113936593" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\App\app\app.iml" timestamp="1457366491408" />
+  </project-files>
+</conversion>
+

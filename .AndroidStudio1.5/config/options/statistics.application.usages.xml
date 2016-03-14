@@ -1,0 +1,69 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="file-type">
+      <project id="Event" values="Properties,JAVA,UNKNOWN,ProGuard File,AIDL,Images,PLAIN_TEXT,Groovy,ARCHIVE,IDEA_MODULE,XML" collectionTime="1457427306842" />
+      <project id="HelloAndroidkurs" values="PLAIN_TEXT,Groovy,UNKNOWN,ARCHIVE,XML,Properties,ProGuard File,IDEA_MODULE,JAVA,Images,AIDL" collectionTime="1457370174916" />
+      <project id="na tel" values="Properties,Images,AIDL,PLAIN_TEXT,UNKNOWN,XML,Groovy,ARCHIVE,JAVA,ProGuard File" collectionTime="1457113363637" />
+      <project id="first" values="Properties,XML,ProGuard File,UNKNOWN,Groovy,Images,ARCHIVE,AIDL,PLAIN_TEXT,JAVA,IDEA_MODULE" collectionTime="1457376633205" />
+      <project id="Helloworld" values="XML,Properties,IDEA_MODULE,Groovy,PLAIN_TEXT,Images,AIDL,JAVA,ProGuard File,UNKNOWN,ARCHIVE" collectionTime="1457112697792" />
+      <project id="App" values="Images,AIDL,XML,PLAIN_TEXT,ProGuard File,JAVA,Groovy,UNKNOWN,ARCHIVE,Properties,IDEA_MODULE" collectionTime="1457366531644" />
+      <project id="My Application" values="XML,Properties,IDEA_MODULE,ProGuard File,JAVA,ARCHIVE,Images,Groovy,PLAIN_TEXT,UNKNOWN,AIDL" collectionTime="1457376696490" />
+      <project id="Eventy" values="PLAIN_TEXT,IDEA_MODULE,XML,Groovy,Properties,ProGuard File,Images,UNKNOWN,ARCHIVE,JAVA,AIDL" collectionTime="1457377095360" />
+      <project id="New_Activity" values="Images,PLAIN_TEXT,ARCHIVE,Properties,Groovy,IDEA_MODULE,JAVA,ProGuard File,UNKNOWN,XML,AIDL" collectionTime="1457437913399" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="Event" values="AndroidRunConfigurationType" collectionTime="1457427306632" />
+      <project id="HelloAndroidkurs" values="AndroidRunConfigurationType" collectionTime="1457370174776" />
+      <project id="na tel" values="AndroidRunConfigurationType" collectionTime="1457113363562" />
+      <project id="first" values="AndroidRunConfigurationType" collectionTime="1457376633033" />
+      <project id="Helloworld" values="AndroidRunConfigurationType" collectionTime="1457112697634" />
+      <project id="App" values="AndroidRunConfigurationType" collectionTime="1457366531509" />
+      <project id="My Application" values="AndroidRunConfigurationType" collectionTime="1457376696252" />
+      <project id="Eventy" values="AndroidRunConfigurationType" collectionTime="1457377095186" />
+      <project id="New_Activity" values="AndroidRunConfigurationType" collectionTime="1457437913189" />
+    </group>
+    <group name="language-level">
+      <project id="Event" values="JDK_1_7,JDK_1_8" collectionTime="1457427306885" />
+      <project id="HelloAndroidkurs" values="JDK_1_7" collectionTime="1457370174917" />
+      <project id="na tel" values="JDK_1_7" collectionTime="1457113363638" />
+      <project id="first" values="JDK_1_7" collectionTime="1457376633235" />
+      <project id="Helloworld" values="JDK_1_7" collectionTime="1457112697825" />
+      <project id="App" values="JDK_1_7" collectionTime="1457366531668" />
+      <project id="My Application" values="JDK_1_7" collectionTime="1457376696502" />
+      <project id="Eventy" values="JDK_1_7" collectionTime="1457377095374" />
+      <project id="New_Activity" values="JDK_1_7" collectionTime="1457437913429" />
+    </group>
+    <group name="frameworks">
+      <project id="Event" values="android-gradle,java-gradle,android" collectionTime="1457427306609" />
+      <project id="HelloAndroidkurs" values="android-gradle,android,java-gradle" collectionTime="1457370174775" />
+      <project id="na tel" values="java-gradle,android-gradle,android" collectionTime="1457113363562" />
+      <project id="first" values="android,android-gradle,java-gradle" collectionTime="1457376633029" />
+      <project id="Helloworld" values="android,java-gradle,android-gradle" collectionTime="1457112697630" />
+      <project id="App" values="android-gradle,java-gradle,android" collectionTime="1457366531509" />
+      <project id="My Application" values="java-gradle,android,android-gradle" collectionTime="1457376696241" />
+      <project id="Eventy" values="android-gradle,java-gradle,android" collectionTime="1457377095186" />
+      <project id="New_Activity" values="java-gradle,android-gradle,android" collectionTime="1457437913186" />
+    </group>
+    <group name="module type">
+      <project id="Event" values="JAVA_MODULE" collectionTime="1457427306628" />
+      <project id="HelloAndroidkurs" values="JAVA_MODULE" collectionTime="1457370174775" />
+      <project id="na tel" values="JAVA_MODULE" collectionTime="1457113363562" />
+      <project id="first" values="JAVA_MODULE" collectionTime="1457376633030" />
+      <project id="Helloworld" values="JAVA_MODULE" collectionTime="1457112697631" />
+      <project id="App" values="JAVA_MODULE" collectionTime="1457366531509" />
+      <project id="My Application" values="JAVA_MODULE" collectionTime="1457376696250" />
+      <project id="Eventy" values="JAVA_MODULE" collectionTime="1457377095186" />
+      <project id="New_Activity" values="JAVA_MODULE" collectionTime="1457437913187" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="64" />
+      <entry feature="ide.settings.Android_SDK" count="1" />
+      <entry feature="ide.settings.Intentions" count="1" />
+      <entry feature="ide.settings.Updates" count="1" />
+      <entry feature="ideaapp.started" count="11" />
+      <entry feature="tips.of.the.day.next" count="48" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\compiler.xml" timestamp="1457377115633" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\copyright\profiles_settings.xml" timestamp="1457377115647" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\encodings.xml" timestamp="1457377222777" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\gradle.xml" timestamp="1457377119111" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\inspectionProfiles\Project_Default.xml" timestamp="1457381423253" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\inspectionProfiles\profiles_settings.xml" timestamp="1457379481449" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\libraries\animated_vector_drawable_23_2_0.xml" timestamp="1457377222805" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\libraries\appcompat_v7_23_2_0.xml" timestamp="1457381683229" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\libraries\support_annotations_23_2_0.xml" timestamp="1457377222842" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\libraries\support_v4_23_2_0.xml" timestamp="1457381683242" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\libraries\support_vector_drawable_23_2_0.xml" timestamp="1457377222834" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\misc.xml" timestamp="1457427298083" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\modules.xml" timestamp="1457377222781" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\runConfigurations.xml" timestamp="1457377222790" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\vcs.xml" timestamp="1457377115667" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\.idea\workspace.xml" timestamp="1457427306518" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\Event.iml" timestamp="1457377222739" />
+    <file path="C:\Users\Damian\AndroidStudioProjects\Event\app\app.iml" timestamp="1457377382475" />
+  </project-files>
+</conversion>
+
